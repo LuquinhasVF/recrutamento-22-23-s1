@@ -1,5 +1,5 @@
-Boa noite, segue aqui o arquivo zip com o programa e um pdf do circuito. 
-O programa que eu usei não tinha o arduino nano, então usei o arduion uno, ou seja,
+Boa noite, segue aqui os arquivos com o programa e dois pdfs do circuito. 
+O programa que eu usei para montar o circuito não tinha o arduino nano, então usei o arduion uno, ou seja,
 as casas -5, -6, 7 e A1 representam as casas D5, D6, D7 e A1do arduino nano.
 O meu projeto é capaz de tirar os valores aproximados da cor (rgb) de qualquer 
 superfície não reflexiva e dizer no Serial Monitor.
